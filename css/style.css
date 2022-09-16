@@ -1,0 +1,108 @@
+*{
+    font-family: 'public Sans', sans-serif;
+}
+section{
+    padding: 60px 0px;
+}
+
+.a{
+    text-decoration: none;
+}
+
+#bgsection{
+    background-color: #232726;
+    
+}
+
+.a, .b{
+    border-radius: 100px;
+    padding: 15px 0 15px 0;
+}
+
+.sopuru{
+    border-radius: 10px;
+}
+
+.tobe1, .tobe2, .tobe3{
+    border-radius: 60px;
+}
+
+
+
+.denva{
+    border-radius: 20px;
+}
+
+.chisom{
+    width: 300px !important;
+}
+
+.hazard{
+    width: 300px !important;
+    border-radius: 800px;
+    box-shadow:5px 5px 10px gold;
+}
+
+#firstmain{
+    background-color: #232726;
+}
+
+#cyborg{
+    background-color: rgb(180, 130, 21);
+}
+
+.f{
+    border-radius: 100px;
+    padding: 15px 0 15px 0;
+    
+}
+
+#footer{
+    background-color: #232726;
+}
+
+.juju{
+    border-radius: 60px;
+    background-color: #e7a81f;
+    padding: 0 10px 0 10px;
+}
+
+.icons a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.icons a:hover{
+    margin-top: 40px;
+    color: #e9a921;
+}
+
+.p{
+    border-radius: 100px;
+    padding: 15px 0 15px 0;
+    
+}
+
+.o{
+    border-radius: 100px;
+    padding: 15px 0 15px 0;
+    
+}
+
+.sax{
+    border-radius: 50px;
+}
+
+.dammy{
+    border-radius: 50px;
+}
+
+.wizkid{
+    width: 60px;
+    border-radius: 60px;
+}
+
+.agba{
+    width: 100px;
+}
