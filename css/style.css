@@ -5,6 +5,11 @@ section{
     padding: 60px 0px;
 }
 
+html,body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
 .a{
     text-decoration: none;
 }
